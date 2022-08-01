@@ -1,2 +1,2 @@
-# WebDev_Krygore
-Krygore's Personal Site
+# WebDev-Michael
+Michael's Personal Site
