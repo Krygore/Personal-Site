@@ -124,7 +124,7 @@ a:after{
 	justify-content: space-between;
 }
 .nav-link{
-	margin: 5% 3%;
+	margin: 5% 1.2%;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: slategrey;
@@ -136,7 +136,7 @@ a:after{
 }
 
 .current{
-	margin: 5%;
+	margin: 5% 1.2%;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color:darkslategray;
