@@ -45,31 +45,28 @@ table {
 
 /* MY STYLES */
 
-*{
-	font-size: 62.5%;
-}
-
 html{
 	font-family: 'IBM Plex Mono', monospace;
-	font-size: 1.2rem;
+	font-size: 62.5%;
 }
 
 h1{
 	font-family: 'Orbitron', sans-serif;
-	font-size: 2.5rem;
+	font-size: 4rem;
 	text-align: center;
 }
 
 h2 {
 	font-family: 'Orbitron', sans-serif;
-	font-size: 1.8rem;
+	font-size: 3rem;
 	text-align: center;
 }
 
 h3{
 	font-family: 'Orbitron', sans-serif;
-	font-size: 1.5rem;
+	font-size: 2.5rem;
 	text-align: center;
+	margin-bottom: 3%;
 }
 
 img{
@@ -82,6 +79,7 @@ header{
 }
 
 p{
+	font-size: 1.8rem;
 	line-height: 1.5;
 }
 
@@ -132,6 +130,7 @@ a:after{
 	background-color: slategrey;
 	color: white;
 	padding: 2%;
+	font-size: 1.6rem;
 	display: flex;
 	justify-content: space-around;
 }
@@ -143,6 +142,7 @@ a:after{
 	background-color:darkslategray;
 	color: white;
 	padding: 2%;
+	font-size: 1.6rem;
 }
 
 .section-header{
