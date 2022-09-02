@@ -124,25 +124,25 @@ a:after{
 	justify-content: space-between;
 }
 .nav-link{
-	margin: 5% 1.2%;
+	margin: 5% 1%;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: slategrey;
 	color: white;
 	padding: 2%;
-	font-size: 1.6rem;
+	font-size: 1.4rem;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 }
 
 .current{
-	margin: 5% 1.2%;
+	margin: 5% 1%;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color:darkslategray;
 	color: white;
 	padding: 2%;
-	font-size: 1.6rem;
+	font-size: 1.4rem;
 }
 
 .section-header{
