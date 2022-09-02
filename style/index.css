@@ -249,7 +249,7 @@ button:hover{
 	padding: 2%;
 }
 
-@media (max-width: 500px){
+@media (max-width: 550px){
 	.header-container{
 		display: flex;
 		flex-wrap: wrap;
@@ -257,5 +257,9 @@ button:hover{
 	.profile-image{
 		display: flex;
 		justify-content: center;
+	}
+	nav{
+		display: flex;
+		flex-wrap: wrap;
 	}
 }
