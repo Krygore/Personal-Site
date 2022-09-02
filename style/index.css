@@ -122,16 +122,18 @@ a:after{
 }
 
 .header{
-	max-width: 100vw;
-	justify-content: flex-start;
+	max-width: 98vw;
+	justify-content: space-between;
 }
 .nav-link{
-	margin: 5%;
+	margin: 5% 3%;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: slategrey;
 	color: white;
 	padding: 2%;
+	display: flex;
+	justify-content: space-around;
 }
 
 .current{
@@ -170,9 +172,15 @@ a:after{
 	font-family: 'IBM Plex Mono', monospace;
 }
 
+.header-image{
+	padding: 3%;
+	margin: 0 auto;
+}
+
 .profile-image{
 	border-radius: 50%;
 	padding: 3%;
+	margin: 0 auto;
 }
 
 .preview{
@@ -241,4 +249,15 @@ button:hover{
 	justify-content: center;
 	margin: 2%;
 	padding: 2%;
+}
+
+@media (max-width: 600px){
+	.header-container{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.profile-image{
+		display: flex;
+		justify-content: center;
+	}
 }
