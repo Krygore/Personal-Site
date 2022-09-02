@@ -131,8 +131,6 @@ a:after{
 	color: white;
 	padding: 2%;
 	font-size: 1.4rem;
-	/* display: flex;
-	justify-content: space-between; */
 }
 
 .current{
@@ -251,7 +249,7 @@ button:hover{
 	padding: 2%;
 }
 
-@media (max-width: 600px){
+@media (max-width: 500px){
 	.header-container{
 		display: flex;
 		flex-wrap: wrap;
@@ -259,8 +257,5 @@ button:hover{
 	.profile-image{
 		display: flex;
 		justify-content: center;
-	}
-	nav{
-		display:
 	}
 }
