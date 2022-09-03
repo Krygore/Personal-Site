@@ -264,7 +264,7 @@ button:hover{
 	}
 }
 
-@media (max-width: 500px){
+@media (max-width: 550px){
 	p{
         text-align: center;
     }
