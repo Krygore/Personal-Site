@@ -1,38 +1,85 @@
-.App {
-  text-align: center;
+body{
+    color: white;
+    background: rgb(47, 47, 47);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+    color: white;
+    text-decoration: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+    color: rgb(203, 203, 203);
+    border-bottom: 2px solid black ;
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.image {
+    max-width: 300px;
+    max-height: 300px;
+    border: 2px solid black;
+    border-radius: 50%;
+    box-shadow: 7px 7px 10px lightslategray;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-link {
+    background: rgb(19, 19, 19);
+    color: white;
+    box-shadow: 4px 4px 10px rgb(255, 111, 58);
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.3);
+}
+
+.header {
+    text-align: center;
+}
+
+.header-image{
+    display: flex;
+    justify-content: center;
+}
+
+.cta-text{
+    text-align: center;
+    margin: auto 25px; 
+}
+
+.project-button {
+    font-size: 2rem;
+    background: rgb(19, 19, 19);
+    color: white;
+    box-shadow: 4px 4px 15px rgb(255, 111, 58);
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+.project-button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.3);
+}
+
+.about-section {
+    text-align: center;
+    margin: auto 25px
+}
+
+.references-section{
+    margin: auto 25px;
+}
+
+.contact-section{
+    text-align: center;
+    margin: auto 25px;
 }
