@@ -55,7 +55,7 @@ export default function Home() {
                             <p>Communicated and implemented effective responsive web design tactics resulting in functional site responsiveness
                                 on mobile devices, tablets and computers</p>
                             <p>Adapted to evolving project requirements and client feedback to continuously improve site responsiveness</p>
-                            <p>Employed CSS flexbox and/or CSS Grid to create efficient and adaptable page structures</p>
+                            <p>Employed CSS flexbox to create efficient and adaptable page structures</p>
                         </div>
                     </div>
                 </div>
