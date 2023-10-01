@@ -47,14 +47,15 @@ export default function Home() {
                         
                         <div className="project-card">
                             <button className="project-button">
-                                <a href="https://github.com/WebDev-Michael/asylum-rg-fe-starter">Asylum Report Generator</a>
+                                <a href="https://natures-blessing-photography.vercel.app">Nature's Blessing Photography</a>
                             </button>
 
-                            <h3>Senior Developer</h3>
+                            <h3>UI/UX Developer</h3>
 
-                            <p>Created a React App that provides access to customized asylum data features built using JavaScript, HTML and CSS</p>
-                            <p>Configured Axios calls to access the Human Rights First API in order to populate the selected data graph visualizations</p>
-                            <p>Integrated AuthO to provide login credentials required to view or download a JSON format text file of the data</p>
+                            <p>Communicated and implemented effective responsive web design tactics resulting in functional site responsiveness
+                                on mobile devices, tablets and computers</p>
+                            <p>Adapted to evolving project requirements and client feedback to continuously improve site responsiveness</p>
+                            <p>Employed CSS flexbox and/or CSS Grid to create efficient and adaptable page structures</p>
                         </div>
                     </div>
                 </div>
