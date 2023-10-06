@@ -80,6 +80,22 @@ h1 {
 
 .references-section{
     margin: auto 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;    
+}
+
+.reference-link{
+    margin: 5vh auto;
+    font-size: 2rem;
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
+    text-decoration: underline;
+    font-weight: 700;    
+}
+
+.reference-link:hover{
+    transition: all .2s ease-in-out;
+    transform: scale(1.5);
 }
 
 .contact-section{

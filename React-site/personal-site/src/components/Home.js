@@ -10,7 +10,7 @@ export default function Home() {
                     <img
                         className="image" 
                         src={Image}
-                        alt="Michael Wilcox Profile Picture"
+                        alt="Michael Wilcox"
                     />
                 </div>
                 <div className="cta-text">  
