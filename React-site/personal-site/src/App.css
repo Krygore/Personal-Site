@@ -114,3 +114,11 @@ h1 {
 .contact-section h3 {
     font-size: 1.1rem;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-shadow: 2px 2px 3px black, 0 0 1.5em rgb(252, 144, 104), 0 0 1em rgb(255, 111, 58);
+    border-top: 2px solid black;
+}

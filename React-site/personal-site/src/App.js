@@ -5,6 +5,7 @@ import About from "./components/About";
 import References from "./components/References";
 import Contact from "./components/Contact";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
@@ -41,6 +42,7 @@ const Root = () => {
     <>
       <Header />
       <Outlet />
+      <Footer />
     </>
   )
 }
