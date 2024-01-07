@@ -122,3 +122,9 @@ h1 {
     text-shadow: 2px 2px 3px black, 0 0 1.5em rgb(252, 144, 104), 0 0 1em rgb(255, 111, 58);
     border-top: 2px solid black;
 }
+
+.experience-header {
+    font-size: 1.3rem;
+    color: rgb(203, 203, 203);
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
+}
