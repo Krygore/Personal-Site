@@ -20,7 +20,7 @@ export default function Home() {
                         <h1>Technical Skills</h1>
 
                         <h3>Front End:</h3>
-                        <p>HTML Structure, CSS Styling, Asynchronous JavaScript, React.js Library, Bootstrap, Responsive Web Design</p>
+                        <p>HTML Structure, CSS Styling, Tailwind CSS, Asynchronous JavaScript, React.js Library, Bootstrap, Responsive Web Design</p>
 
                         <h3>Back End:</h3>
                         <p>Authentication, Data Structures, End-To-End Testing, Express.js, Node.js, Relational Databases, SQL, RESTful State Management</p>
@@ -56,6 +56,20 @@ export default function Home() {
                                 on mobile devices, tablets and computers</p>
                             <p>Adapted to evolving project requirements and client feedback to continuously improve site responsiveness</p>
                             <p>Employed CSS flexbox to create efficient and adaptable page structures</p>
+                        </div>
+
+                        <div className="project-card">
+                            <button className="project-button">
+                                <a href="">Shop Online New York</a>
+                            </button>
+
+                            <h3>Frontend Development Manager</h3>
+
+                            <p>Created a fully functioning and articulate E-commerce site for New York businesses and buyers</p>
+                            <p>Adapted to evolving project requirements and client feedback to continuously improve site responsiveness</p>
+                            <p>Employed Tailwind CSS to create efficient and adaptable page structures</p>
+                            <p>Implemented an Express.js server and SQL database to allow for users to create an account, both buyers and sellers</p>
+                            <p>Led three teams during the development process, consisting of two React.js teams and a CSS team</p>
                         </div>
                     </div>
                 </div>
