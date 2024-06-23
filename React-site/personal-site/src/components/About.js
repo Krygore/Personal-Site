@@ -27,11 +27,11 @@ export default function About() {
                     <p>Proactive academic support to help learners get unblocked</p>
                     <p>Progress documentation to keep track of learner success</p>
                     <p>One-on-one instruction sessions via Zoom</p>
-                    <p>Knowledge base maintenance</p>
+                    <p>Lead multiple cohort programs that hold students to a higher accountability and success rate</p>
                 </div>
 
                 <div className="about-card">
-                    <h3 className="experience-header">Frontend Development Manager</h3>
+                    <h3 className="experience-header">Fullstack Development Manager</h3>
                     <h4>Tony LLC</h4>
                     <p>Lead multiple teams in the best development practices of new websites</p>
                     <p>Review code and pull requests to be merged into a repository</p>

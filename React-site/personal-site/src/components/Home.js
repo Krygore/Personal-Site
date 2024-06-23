@@ -63,13 +63,14 @@ export default function Home() {
                                 <a href="">Shop Online New York</a>
                             </button>
 
-                            <h3>Frontend Development Manager</h3>
+                            <h3>Fullstack Development Manager</h3>
 
                             <p>Created a fully functioning and articulate E-commerce site for New York businesses and buyers</p>
                             <p>Adapted to evolving project requirements and client feedback to continuously improve site responsiveness</p>
                             <p>Employed Tailwind CSS to create efficient and adaptable page structures</p>
                             <p>Implemented an Express.js server and SQL database to allow for users to create an account, both buyers and sellers</p>
-                            <p>Led three teams during the development process, consisting of two React.js teams and a CSS team</p>
+                            <p>Led three teams during the development process, consisting of the React team, the CSS team and the Backend Development team</p>
+                            <p>Reviewed the code of each team and pushed to the main branch after any change requests have been met</p>
                         </div>
                     </div>
                 </div>
