@@ -15,6 +15,22 @@ h1 {
     text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
 }
 
+span {
+    color:red;
+}
+
+label {
+    font-weight: bold;
+}
+
+form {
+    border: 2px solid lightsteelblue;
+    width: 275px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
 .image {
     max-width: 250px;
     max-height: 250px;
@@ -104,6 +120,10 @@ h1 {
 }
 
 .contact-link {
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
+}
+
+.contact-link-b {
     text-shadow: 1px 1px 2px black, 0 0 1em rgb(252, 144, 104), 0 0 0.5em rgb(255, 111, 58);
 }
 

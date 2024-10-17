@@ -36,7 +36,7 @@ export default function Home() {
 
                         <div className="project-card">
                             <button className="project-button">
-                                <a href="https://redneck-feeds-llc.vercel.app/">RedNeck Feeds LLC</a>
+                                <a href="https://redneckfeeds.com/">RedNeck Feeds LLC</a>
                             </button>
 
                             <h3>Senior Developer</h3>
