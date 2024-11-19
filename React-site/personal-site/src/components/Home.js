@@ -43,6 +43,7 @@ export default function Home() {
 
                             <p>Developed a React application through Create React App to build a product landing page for a grain delivery service</p>
                             <p>Utilized react router to create links to the separate categories of feed for easy user navigation</p>
+                            <p>Utilized react components to generate multiple cards based on dynamic calling of data to render feed cards</p>
                         </div>
                         
                         <div className="project-card">
